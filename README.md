@@ -1,6 +1,18 @@
 # finllect
 
-A new Flutter project.
+prerequsite:
+
+flutter package
+android studio
+any IDE
+
+How to run?
+
+1) clone the project in the same directory of flutter SDK
+2) Move to the project
+3) flutter run
+
+Use your mobile phone or emulator to view the application
 
 ## Getting Started
 
